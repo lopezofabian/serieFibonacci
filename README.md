@@ -9,8 +9,8 @@ Para ejecutar el programa, simplemente ejecuta el archivo `main.py`. El programa
 ```python
 python main.py
 
-Ejemplo de código
+
 El código en main.py utiliza la función fibonacci del archivo fibonacci.py para calcular la secuencia de Fibonacci.
 
-Acerca de
+## Acerca de
 Este proyecto fue creado por Fabián Andrés López Oretega como una demostración de conceptos básicos de Python y algoritmos de programación.
